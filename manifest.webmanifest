@@ -1,8 +1,8 @@
 {
   "name": "hackathon",
   "short_name": "hackathon",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "theme_color": "#b0dbd3",
+  "background_color": "#010a09",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
